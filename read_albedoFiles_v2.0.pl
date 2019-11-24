@@ -24,7 +24,6 @@ print " ---                                                                     
 print " ----------------------------------------------------------------------------\n";
 print color('reset');
 print "\n";
-print " UN SUPER TEST !!!\n";
 #
 #------------------------------------------------------------------------------------------
 my $now_string = localtime;  # On récupère la date et l'heure d'exécution afin de la reporter dans les fichiers de sortie.
