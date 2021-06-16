@@ -10,6 +10,7 @@
 #                dans la fenêtre à 5 microns.
 #
 # 2019/11/04 - v1.9 : ajout du calcul de l'incertitude relative sur l'albédo, pour chaque pixel.
+# 2021/06/16 : test de publication sur Zenodo.
 #
 use Term::ANSIColor; # Sortie standard avec des couleurs.
 
